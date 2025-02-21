@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_my_whistlist">My Whistlist</string>
+    <string name="txt_no_whistlist_data">No Whistlist data</string>
+    <string name="txt_rating">%1$s / %2$s</string>
+</resources>
